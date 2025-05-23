@@ -1,6 +1,6 @@
 # credit-card-checker-starter
 
-💳 Credit Card Validator (Luhn Algorithm)
+💳 Credit Card Validator (Luhn Algorithm) [JS]
 
 This project validates credit card numbers using the Luhn algorithm. It also identifies invalid cards and determines which companies issued them. Optionally, it can suggest a corrected version of an invalid card by adjusting its check digit.
 
